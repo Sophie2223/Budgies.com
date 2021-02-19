@@ -1,0 +1,95 @@
+.h1{
+font-family: Palatino, 'Palatino Linotype' , serif; color : black;	
+}
+
+.sizefrom{
+  width: 500px;
+  margin: auto;
+  height: 400px;
+}
+
+.content {
+  background-color: white;
+   margin: auto;
+   margin-top: 70px;
+}
+
+.text{
+font-family: Palatino, 'Palatino Linotype' , serif; color : black;
+}
+
+.Mission {
+  background-image: linear-gradient(135deg, rgba(0, 0, 0, 0.6) 0%, rgba(0, 0, 0, 0.6) 100%), url(../images/vélo.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 590px;
+  padding: 100px 50px;
+}
+
+.Design_Mission {
+  color: white;
+  text-shadow: 1px 1px 3px rgba(0,0,0,0.2);
+  margin: auto;
+}
+
+.position_Text_Mission{
+  margin-top: -50px;
+}
+
+.boutoncontact{
+	margin-top: 50px;
+	margin-left: 200px;
+}
+
+.Mission1 {
+  background-image: linear-gradient(135deg, rgba(0, 0, 0, 0.6) 0%, rgba(0, 0, 0, 0.6) 100%), url(../images/paris.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 590px;
+  padding: 100px 50px;
+}
+
+.boutoncontact1{
+	margin-top: 15px;
+	margin-left: 215px;
+}
+
+.boutoncontact2{
+	margin-top: 12px;
+	margin-left: 198px;
+}
+
+.content2 {
+  background-color: rgb(131, 166, 151);
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  width: 100%;
+  padding: 10px 50px;
+}
+
+.imgcaro{
+  
+}
+
+.rounded-start{
+  width: 100%;
+  vertical-align: middle;
+  margin-left:15px;
+  background-image: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3));
+}
+
+.Pôletext{
+  text-align: left;
+}
+
+.flex-custom0 {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 100px;
+  align-items: center;
+}
+
+.flex-custom0 a {
+  order: 1;
+}
